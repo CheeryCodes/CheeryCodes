@@ -9,6 +9,8 @@ I am a passionate software developer with a Bachelor’s degree in Computer Scie
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [esthernehemiah57@gmail.com](mailto:esthernehemiah57@gmail.com)
 *   🧠  I'm learning Machine Learning & Deep Learning
+*   🖥️ See my portfolio: [portfolio](https://esthernehemiahportfolio.vercel.app)
+
   
   ### Skills 
 <p align="left">
